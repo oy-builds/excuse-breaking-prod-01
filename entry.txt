@@ -1,0 +1,1 @@
+Staging passed flawlessly, so technically this is a success: production was simply the first environment brave enough to test me on all 40,000 real users at once.
